@@ -1,0 +1,4 @@
+%%
+// Expresión regular Acción asociada
+"Hola mundo" {printf("¡Hola!"); saludo++;}
+%%
